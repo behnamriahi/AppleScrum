@@ -1,4 +1,4 @@
-**Applescrum** is a free, open source, flexible project management web application written using CakePHP.
+**Applescrum** is a free, open source, flexible project management web application Forked from orangescrum.
 
 #### Requirements
     * Apache with `mod_rewrite`
